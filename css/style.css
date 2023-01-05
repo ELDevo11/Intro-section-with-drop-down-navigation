@@ -41,7 +41,7 @@ ul {
   display: none;
 }
 .drop-down.hidden {
-  transform: translateX(-200%);
+  transform: translateX(100%);
 }
 .rotate {
   transform: rotate(180deg);
